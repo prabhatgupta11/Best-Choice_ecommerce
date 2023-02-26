@@ -42,7 +42,7 @@ function helloworld(){
                 </div>
                 <div class="d1">
                     <div class="tag">Payment Options</div>
-                    <div><a href="">My Best Buy® Credit Card</a></div>
+                    <div><a href="">My Best Choice® Credit Card</a></div>
                     <div><a href="">Pay Your Bill at Citibank</a></div>
                     <div><a href="">Lease to Own</a></div>
                 </div>
@@ -60,8 +60,8 @@ function helloworld(){
                 </div>
                 <div class="d1">
                     <div class="tag">Rewards & Membership</div>
-                    <div><a href="">Best Buy Totaltech</a></div>
-                    <div><a href="">My Best Buy</a></div>
+                    <div><a href="">Best Choice Totaltech</a></div>
+                    <div><a href="">My Best Choice</a></div>
                     <div><a href="">View Points & Certificates</a></div>
                     <div><a href="">Member Offers</a></div>
                 </div>
@@ -72,13 +72,13 @@ function helloworld(){
                     <div><a href="">Affiliate Program</a></div>
                     <div><a href="">Advertise with Us</a></div>
                     <div><a href="">Developers</a></div>
-                    <div><a href="">Best Buy Health</a></div>
-                    <div><a href="">Best Buy Education</a></div>
-                    <div><a href="">Best Buy Business</a></div>
+                    <div><a href="">Best Choice Health</a></div>
+                    <div><a href="">Best Choice Education</a></div>
+                    <div><a href="">Best Choice Business</a></div>
                     
                 </div>
                 <div class="d1">
-                    <div class="tag">About Best Buy</div>
+                    <div class="tag">About Best Choice</div>
                     <div><a href="">Corporate Information</a></div>
                     <div><a href="">Careers</a></div>
                     <div><a href="">Corporate Responsibility & Sustainability</a></div>
@@ -104,7 +104,7 @@ function helloworld(){
                     
                     <img style="width:18%" src="https://api.iconify.design/carbon/application-mobile.svg?color=blue" alt="">
                     <div id="bob1">
-                    <h4>Best Buy app</h4>
+                    <h4>Best Choice app</h4>
                     <h6 style="color:#0046be ;">Learn more ›</h6>
                     </div>
                     
@@ -127,7 +127,7 @@ function helloworld(){
         <div id="di">
             <p id="e1">How was your experience?<span style="color:#0046be">Give feedback about our website</span></p>
             <p class="h1"><a href="">Mobile Site</a></p>
-            <p class="h2"><a href="">Best Buy Canada</a></p>
+            <p class="h2"><a href="">Best Choice Canada</a></p>
         
         </div>
 
@@ -147,7 +147,7 @@ function helloworld(){
             <div>California Supply Chain Transparency Act</div>
         </div>
         <div>
-            <p id="g2">In-store pricing may vary. Prices and offers are subject to change. © 2022 Best Buy. All rights reserved. BEST BUY, the BEST BUY logo, the tag design, and MY BEST BUY are trademarks of Best Buy and its affiliated companies.</p>
+            <p id="g2">In-store pricing may vary. Prices and offers are subject to change. © 2022 Best Choice. All rights reserved. Best Choice, the Best Choice logo, the tag design, and MY Best Choice are trademarks of Best Choice and its affiliated companies.</p>
         </div>
       
     </div>
