@@ -74,7 +74,14 @@
         .then(res=>console.log(res))
         .catch(err=>console.log(err))
         
-        alert("Register Successful")
+        alert("login Successful")
+        {
+        setTimeout(() => {
+          window.location.assign("index.html");
+          console.log("I am admin"); 
+        }, 1500);
+      }
+        
     });
 
 
