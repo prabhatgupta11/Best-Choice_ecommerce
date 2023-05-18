@@ -2,7 +2,7 @@
 
 It provides consumer electronics, home office products, entertainment products, appliances and related services through two business segments (Domestic and International).
 
-Netlify link=[a link](visionary-hamster-019226.netlify.app/)
+Netlify link=[visionary-hamster-019226.netlify.app/]
 
 
 
