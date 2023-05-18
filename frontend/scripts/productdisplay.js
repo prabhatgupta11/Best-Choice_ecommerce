@@ -106,6 +106,7 @@ function Appenddata(data){
         addtocart.addEventListener('click',function(){
 
             console.log('bahi')
+            alert("Product Added Successfully");
             Addtocart(ele)
         
 
