@@ -1,4 +1,4 @@
-# Best Choice
+# Best Choice - ecommerce clone
 It provides consumer electronics, home office products, entertainment products, appliances and related services through two business segments (Domestic and International).
 
 Netlify link=https://visionary-hamster-019226.netlify.app/
